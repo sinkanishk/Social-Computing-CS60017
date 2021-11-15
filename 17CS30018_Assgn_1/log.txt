@@ -1,0 +1,18 @@
+The number of nodes in the original graph are : 4039
+The number of edges in the original graph are : 88234
+The number of edges in the graph after removal of nodes divisible by 3 are : 39116
+The number of nodes in the graph after removal of nodes divisible by 3 are : 2692
+Maximum degree in the graph = 1045
+The node-id with maximum degree = 107
+The fraction of nodes in the largest component are 1.0
+The number of articulation points in the network are : 11
+The total number of connected components are : 1
+The diameter of the maximum strongly connected component is 8
+Number of nodes : 265214
+Number of edges : 420045
+Number of nodes with degree = 4 are 4732
+The number of edges are 151930 and nodes are 34203 in the maximal strongest connected component.
+The number of edges are 395270 and nodes are 224832 in the maximal weakly connected component.
+Number of triangles are 267313
+Number of rectangles are 0.0
+The average clustering coefficient is 0.06708495948944604
